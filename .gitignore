@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+styleguide.md
+design/BeyondCSS Personal Chef Services.fig
+design/person-chef-services-design.jpg

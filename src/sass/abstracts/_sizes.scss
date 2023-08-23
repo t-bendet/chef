@@ -20,3 +20,18 @@ $card-body-padding: 5rem;
 
 $grid-gap: 1.5rem;
 $flex-group-gap: 1rem;
+
+// ? alternative approach - add more maps that convert to utilities
+// $specific-paddings: (
+//   "container-inline": 1rem,
+//   "section": 7rem,
+//   "hero": 20rem,
+//   "card-body": 5rem,
+// );
+
+// $gaps: (
+//   "flex-group": 1rem,
+//   "grid": 1.5rem,
+// );
+
+// ? might be better to prefix variables with the relevant property

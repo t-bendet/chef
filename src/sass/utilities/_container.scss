@@ -10,7 +10,7 @@
 }
 
 .container[data-type="wide"] {
-  --max-width: #{$container-wide-max-width};
+  --max-width: #{$container-max-width-wide};
 }
 
 // nicer approach / mixin / foreach

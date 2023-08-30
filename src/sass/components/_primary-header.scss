@@ -1,0 +1,8 @@
+@use "../abstracts/" as *;
+// ! simple and nice trick for keeping this element out of the flow
+// ! then we can center the h1 without needing to calc the nav size
+
+.primary-header {
+  position: absolute;
+  inset: 0 0 auto;
+}
